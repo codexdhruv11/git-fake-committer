@@ -1,0 +1,16 @@
+{
+  "name": "git-fake-committer",
+  "version": "1.0.0",
+  "main": "main.js",           
+  "type": "commonjs",          
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.0.0",     
+    "simple-git": "^3.22.0",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.0.1"
+  }
+}
