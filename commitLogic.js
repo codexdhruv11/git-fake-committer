@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const { exec } = require('child_process');
 
-// ✅ Your GitHub identity (must match GitHub settings)
+
 const GITHUB_NAME = "codexdhruv11";
 const GITHUB_EMAIL = "dhruvkaushikjee9457@gmail.com";
 
