@@ -1,5 +1,7 @@
 # 🟩 Fake Git Commit Generator (Electron App)
 
+⚠️ Ethical Note: This tool is intended for educational, personal, or historical reconstruction purposes. Using it to mislead potential employers or falsify professional experience is not recommended and discouraged.
+
 This is a desktop app built with **Electron + Node.js** that lets you:
 - Generate **backdated Git commits**
 - Push them to your GitHub repo
